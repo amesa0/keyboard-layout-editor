@@ -74,8 +74,8 @@
 
 		// Options
 		$scope.sizeStep = 0.25;
-		$scope.moveStep = 0.25;
-		$scope.rotateStep = 15;
+		$scope.moveStep = 0.1;
+		$scope.rotateStep = 0.5;
 
 		// The keyboard data
 		$scope.keyboard = { keys: [], meta: {} };
